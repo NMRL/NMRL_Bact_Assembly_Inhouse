@@ -1,5 +1,5 @@
 # ARDETYPE
-![Latest Version](https://img.shields.io/github/v/release/NMRL/Ardetype?label=latest%20version)
+![Latest Version](https://img.shields.io/github/v/release/NMRL/Ardetype?label=latest%20version&sort=semver)
 
 NGS data processing pipeline designed to perform species-agnostic and species-specific analysis of short paired-end (PE) bacterial reads.
 
